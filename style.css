@@ -3,6 +3,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: "Zen Kurenaido", sans-serif;
+    margin: 0;
 }
 
 .logo {
