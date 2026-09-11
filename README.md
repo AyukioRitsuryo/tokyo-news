@@ -1,4 +1,5 @@
 **Tokyo News 京**
+
 --
 
 **I. English Version** 
@@ -13,6 +14,7 @@ Technologies Used
 2. Flexbox and Box Model.
 3. Git and GitHub repository.
 4. Ubuntu.
+
 --
 
 Images
@@ -20,6 +22,7 @@ Images
 Authors
 - xxx,
 - xxx.
+
 --
 
 Live Demo
@@ -37,6 +40,8 @@ Author
 ---
 Project completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
 
+--
+
 **II. Polska wersja** 
 
 Tokyo News jest stroną poświęconą kulturze Japonii dla fanów z Polski. Jej główną tematyką są wiadomości związane z anime, mangą, Japonią oraz grami. Strona, prócz 
@@ -50,6 +55,7 @@ Wykorzystane technologie
 2. Flexbox i Box Model.
 3. Praca z Git i repozytorium Github.
 4. Praca na Ubuntu.
+
 --
 
 Zdjęcia
@@ -57,6 +63,7 @@ Zdjęcia
 Autorzy
 - xxx,
 - xxx.
+
 --
 
 Demo na żywo
@@ -64,14 +71,14 @@ Demo na żywo
 - Live Demo: [Zobacz projekt na żywo](https://ayukioritsuryo.github.io/tokyo-news/),
 - Podgląd kodu: [Repozytorium GitHub](https://github.com/AyukioRitsuryo/tokyo-news).
 
----
+--
 
 Autor
 
 - Autor: Ayukio,
 - GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo).
 
----
+--
 Projekt zrealizowany w ramach programu [The Odin Project](https://www.theodinproject.com/).
 
 
