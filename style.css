@@ -8,14 +8,24 @@ body {
 .logo {
     display: flex;
     font-size: 36px;
-    font-weight: bold;
+    font-family: "Potta One";
+    text-shadow: #A811A5 1px 0 10px;
+    color: rgb(222, 218, 231);
 }
+
+.red:hover {
+    color: #A811A5;
+    transition: 1s;
+    text-shadow: #A811A5 1px 0 20px;
+}
+
 .navbar {
     display: flex;
     justify-content: space-between;
-    background-color: blueviolet;
+    background-color: rgb(95, 17, 168);
     padding: 30px;
 }
+
 
 .nav {
     display: flex;
@@ -30,4 +40,14 @@ body {
 
 .nav a {
     text-decoration: none;
+    color: rgb(222, 218, 231);
+    border-radius: 20px;
 }
+
+.nav a:hover {
+    text-shadow: #f0f0f0 1px 0 3px;
+    color: #A811A5;
+    transition: 0.3s;
+
+}
+
