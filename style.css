@@ -4,6 +4,7 @@ body {
     flex-direction: column;
     font-family: "Zen Kurenaido", sans-serif;
     margin: 0;
+    flex: 1;
 }
 
 /*navbar section*/
@@ -57,20 +58,70 @@ body {
 
 .main-news {
     display: flex;
-    justify-content: space-evenly;
     margin: 20px 20px 20px 60px;
     flex-wrap: wrap;
+    gap: 20px;
 }   
 
+.news {
+    display: flex;
+}
 .tokyo {
     width: 100%;
-    max-width: 800px;
+    max-width: 600px;
+    min-width: 280px;
     border-radius: 10px;
 }
 
+.article-1-text {
+    width: 100%;
+    max-width: 350px;
+    align-content: flex-end;
+
+}
+.tags {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+}
+
+.tag {
+    background-color: rgb(247, 206, 72);
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.player {
+    text-align: center;
+}
 .radio {
     border: 5px solid rgb(95, 17, 168);
     border-radius: 10px;
+    border-color: #A811A5;
+    color: white;
+    margin: auto;
+    background-color: rgb(95, 17, 168);
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
+
+.back, .play, .next {
+    border: 1px solid black;
+    border-radius: 100%;
+    padding: 5px 15px 10px 15px;
+    border-color: antiquewhite;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: #A811A5;
+    
 }
 
 
