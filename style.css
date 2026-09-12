@@ -57,11 +57,21 @@ body {
 
 .main-news {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
+    margin: 20px 20px 20px 60px;
+    flex-wrap: wrap;
 }   
 
 .tokyo {
     width: 100%;
     max-width: 800px;
+    border-radius: 10px;
 }
+
+.radio {
+    border: 5px solid rgb(95, 17, 168);
+    border-radius: 10px;
+}
+
+
 
