@@ -58,10 +58,10 @@ body {
 .main-news {
     display: flex;
     justify-content: space-between;
-}
+}   
 
-.article-1 {
-    flex-basis: 300;
-
+.tokyo {
+    width: 100%;
+    max-width: 800px;
 }
 

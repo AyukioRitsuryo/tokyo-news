@@ -20,7 +20,7 @@ Technologies Used
 Images
 
 Authors
-- xxx,
+- https://www.pexels.com/pl-pl/@apasaric/ - Shinjuku, Tokyo
 - xxx.
 
 ---
