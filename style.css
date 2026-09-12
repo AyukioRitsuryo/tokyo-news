@@ -6,6 +6,8 @@ body {
     margin: 0;
 }
 
+/*navbar section*/
+
 .logo {
     display: flex;
     font-size: 36px;
@@ -24,7 +26,7 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: rgb(95, 17, 168);
-    padding: 30px;
+    padding: 30px 30px 10px 30px;
 }
 
 
@@ -35,8 +37,7 @@ body {
     gap: 20px;
     flex-wrap: wrap;
     align-items: flex-end;
-    font-size: 26px;
-    font-weight: bold;
+    font-size: 18px;
 }
 
 .nav a {
@@ -46,9 +47,21 @@ body {
 }
 
 .nav a:hover {
-    text-shadow: #f0f0f0 1px 0 3px;
+    text-shadow: black 1px 0 10px;
     color: #A811A5;
     transition: 0.3s;
+
+}
+
+/*main-news section*/
+
+.main-news {
+    display: flex;
+    justify-content: space-between;
+}
+
+.article-1 {
+    flex-basis: 300;
 
 }
 
