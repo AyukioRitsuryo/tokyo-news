@@ -21,7 +21,7 @@ Images
 
 Authors
 - https://www.pexels.com/pl-pl/@apasaric/ - Shinjuku, Tokyo
-- xxx.
+- https://pixabay.com/pl/users/stakalo-30736106/ - radio girl
 
 ---
 

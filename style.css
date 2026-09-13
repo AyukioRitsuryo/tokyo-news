@@ -70,6 +70,7 @@ body {
     flex-wrap: wrap;
     background-color: white;
     border-radius: 10px;
+    box-shadow: 2px 3px rgb(95, 17, 168);
 }
 .tokyo {
     width: 100%;
@@ -111,7 +112,6 @@ body {
 .radio {
     border: 5px solid rgb(95, 17, 168);
     border-radius: 10px;
-    border-color: #A811A5;
     color: white;
     background-color: rgb(95, 17, 168);
     padding: 50px;
@@ -120,6 +120,7 @@ body {
     gap: 20px;
     flex: 1 1 10%;
     max-height: 150px;
+    box-shadow: 2px 2px #A811A5;
     
 }
 
@@ -139,8 +140,23 @@ body {
     font-size: 20px;
     font-weight: bold;
     background-color: #A811A5;
+    box-shadow: 2px 2px black;
     
 }
+
+.back:hover, .play:hover, .next:hover {
+    color: white;
+}
+
+.radio-img {
+    width: 100%;
+    max-width: 200px;
+    border-radius: 70px;
+    display: flex;
+    align-self: center;
+    box-shadow: 2px 2px black;
+}
+
 
 
 
