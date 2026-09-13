@@ -78,12 +78,15 @@ body {
 }
 
 .article-1-text {
-    width: 100%;
-    max-width: 350px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    flex: 1 1 10%;
 
+}
+.article-1-text h3 {
+    padding: 0px 10px 5px 10px;
+    margin: 0px;
 }
 .tags {
     display: flex;
