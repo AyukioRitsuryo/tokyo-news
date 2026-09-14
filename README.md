@@ -22,6 +22,9 @@ Images
 Authors
 - https://www.pexels.com/pl-pl/@apasaric/ - Shinjuku, Tokyo
 - https://pixabay.com/pl/users/stakalo-30736106/ - radio girl
+- One Piece volumes - my own collection xd
+- https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - article: best anime of the season..
+- https://unsplash.com/@reganography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - article: top 10 starter Manga..
 
 ---
 

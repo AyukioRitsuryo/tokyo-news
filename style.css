@@ -170,7 +170,13 @@ body {
     width: 100%;
     max-width: 350px;
     min-width: 280px;
+    height: 233px;
+    border-radius: 10px;
 
+}
+
+.other-news-image:hover {
+    border: 2px solid #A811A5;
 }
 
 .article-2, .article-3, .article-4 {
