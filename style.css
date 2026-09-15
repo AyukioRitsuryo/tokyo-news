@@ -196,7 +196,7 @@ body {
 .top {
     text-align: center;
     font-family: "Potta One";
-    margin: 20px;
+    margin: 20px 0px 20px 0px;
 }
 
 .user-container {
@@ -204,6 +204,7 @@ body {
     justify-content: center;
     gap: 30px;
     flex-wrap: wrap;
+    margin-bottom: 20px;
 }
 
 .users {

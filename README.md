@@ -26,6 +26,11 @@ Authors
 - https://unsplash.com/@dexezekiel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - article: best anime of the season..
 - https://unsplash.com/@reganography?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - article: top 10 starter Manga..
 - https://unsplash.com/@___ginza___?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText - avatar: rat
+- https://unsplash.com/@kris_ricepees - avatar: racoon
+- https://unsplash.com/@sneha_snaps - avatar: pigeon
+- https://unsplash.com/@yangshuo - avatar: cat
+- https://unsplash.com/@dshap - avatar: crow
+
 
 ---
 
