@@ -185,6 +185,42 @@ body {
     max-width: 350px;
 }
 
+/*ranking section*/
+
+.ranking {
+    display: flex;
+    background-color: #fae0f9;
+    flex-direction: column;
+}
+
+.top {
+    text-align: center;
+    font-family: "Potta One";
+    margin: 20px;
+}
+
+.user-container {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.users {
+    display: flex;
+    flex-direction: column;
+}
+
+.avatars {
+    width: 100%;
+    max-width: 150px;
+    border-radius: 150px;
+}
+
+.user-text {
+    text-align: center;
+}
+
 
 
 
