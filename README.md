@@ -47,9 +47,6 @@ Author
 - GitHub: [@Ayukio Ritsuryo](https://github.com/AyukioRitsuryo).
 
 ---
-Project completed as part of [The Odin Project](https://www.theodinproject.com/) curriculum.
-
----
 
 **II. Polska wersja** 
 
