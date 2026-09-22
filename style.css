@@ -218,9 +218,19 @@ body {
     border-radius: 150px;
 }
 
+.avatars:hover {
+    border: 2px solid #A811A5;
+}
+
 .user-text {
     text-align: center;
 }
+
+.user-text a {
+    text-decoration: none;
+}
+
+
 
 
 
