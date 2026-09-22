@@ -230,6 +230,26 @@ body {
     text-decoration: none;
 }
 
+/*sign-up section*/
+
+.sign-up {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.sign-up-container {
+    background-color: rgb(95, 17, 168);
+    width: 60%;
+    display: flex;
+    margin: 30px;
+    border-radius: 10px;
+}
+
+.sign-up-text {
+    padding: 10px;
+}
+
+
 
 
 
