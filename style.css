@@ -247,6 +247,13 @@ body {
 
 .sign-up-text {
     padding: 10px;
+    flex: 1 1 60%;
+}
+
+.sign-up-button {
+    padding: 0px 0 0px 40px;
+    flex: 1 1 10%;
+    align-content: center;
 }
 
 
