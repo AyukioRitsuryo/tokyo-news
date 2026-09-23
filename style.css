@@ -14,8 +14,8 @@ body {
     display: flex;
     font-size: 36px;
     font-family: "Potta One";
-    text-shadow: 2px 4px #A811A5;
-    color: rgb(222, 218, 231);
+    text-shadow: 2px 4px black;
+    color: rgb(236, 95, 0);
 }
 
 .red:hover {
@@ -196,7 +196,10 @@ body {
 .top {
     text-align: center;
     font-family: "Potta One";
+    font-size: 20px;
     margin: 20px 0px 20px 0px;
+    color: rgb(236, 95, 0);
+    text-shadow: 1px 2px black;
 }
 
 .user-container {
@@ -240,22 +243,39 @@ body {
 .sign-up-container {
     background-color: rgb(95, 17, 168);
     width: 60%;
+    min-width: 400px;
     display: flex;
     margin: 30px;
     border-radius: 10px;
+    box-shadow: 2px 2px #A811A5;
 }
 
 .sign-up-text {
-    padding: 10px;
+    padding: 20px;
     flex: 1 1 60%;
 }
 
+.sign-up-text p {
+    margin: 0px;
+}
+
 .sign-up-button {
-    padding: 0px 0 0px 40px;
+    padding: 0px 10px 0px 60px;
     flex: 1 1 10%;
     align-content: center;
 }
 
+button {
+    font-family: "Potta One";
+    background-color:#A811A5;
+    color: rgb(236, 95, 0);
+    text-shadow: 1px 1px black;
+    border-radius: 5px;
+}
+
+button:hover {
+    color: rgb(252, 101, 0);
+}
 
 
 
