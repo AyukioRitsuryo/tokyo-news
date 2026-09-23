@@ -257,6 +257,7 @@ body {
 
 .sign-up-text p {
     margin: 0px;
+    text-shadow: 1px 1px black;
 }
 
 .sign-up-button {
@@ -275,6 +276,18 @@ button {
 
 button:hover {
     color: rgb(252, 101, 0);
+}
+
+.yellow-sign-up-t {
+    color: rgb(247, 206, 72);
+    font-size: 18px;
+    text-shadow: 1px 1px black;
+}
+
+.ying {
+    color: white;
+    text-decoration: none;
+    font-size: 22px;
 }
 
 
