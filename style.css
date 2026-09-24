@@ -336,5 +336,14 @@ button:hover {
     max-width: 399px;
 }
 
+ /* III. ARTICLE-1.HTML*/
 
+ .change-article-1 {
+    flex-direction: column;
+ }
+
+ .font-size-article-1 {
+    font-size: 35px;
+    font-weight: 900;
+ }
 
