@@ -332,5 +332,9 @@ button:hover {
     color: #A811A5;
 }
 
+.smaller {
+    max-width: 399px;
+}
+
 
 
