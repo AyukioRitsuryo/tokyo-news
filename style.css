@@ -1,3 +1,4 @@
+/* I. INDEX.HTML */
 body {
     font-family: monospace;
     display: flex;
@@ -320,9 +321,16 @@ button:hover {
     width: 20px;
 }
 
+ /* II. NEWS.HTML */
 
+.h3-decoration a {
+    text-decoration: none;
+    color: black;
+}
 
-
+.h3-decoration a:hover {
+    color: #A811A5;
+}
 
 
 
