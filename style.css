@@ -103,6 +103,7 @@ body {
     background-color: rgb(247, 206, 72);
     border-radius: 15px;
     padding: 8px;
+    box-shadow: 1px 1px black;
 }
 
 .player {
@@ -347,3 +348,25 @@ button:hover {
     font-weight: 900;
  }
 
+ .tags-color {
+    background-color: rgb(28, 142, 236);
+ }
+
+ .article-container {
+    padding: 10px;
+    text-align: justify;
+    min-width: 260px;
+ }
+
+ .main-news-1 {
+    gap: 40px;
+ }
+ .float-right {
+    float: right;
+    margin: 0px 0px 10px 10px;
+ }
+
+ .float-left {
+    float: left;
+    margin: 0px 10px 0px 0px;
+ }
