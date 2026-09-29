@@ -370,3 +370,17 @@ button:hover {
     float: left;
     margin: 0px 10px 0px 0px;
  }
+
+ .textarea {
+    width: 96%;
+    border-radius: 10px;
+    background-color: #fae0f9;
+ }
+
+ .submit {
+    font-family: "Potta One";
+    background-color:#A811A5;
+    color: rgb(236, 95, 0);
+    text-shadow: 1px 1px black;
+    border-radius: 5px;
+ }
