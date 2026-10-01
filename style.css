@@ -337,7 +337,7 @@ button:hover {
     max-width: 399px;
 }
 
- /* III. ARTICLE-1.HTML*/
+ /* III. ARTICLES.HTML*/
 
  .change-article-1 {
     flex-direction: column;
@@ -383,4 +383,11 @@ button:hover {
     color: rgb(236, 95, 0);
     text-shadow: 1px 1px black;
     border-radius: 5px;
+ }
+
+ .disclaimer {
+    background-color: #fae0f9;
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 12px;
  }

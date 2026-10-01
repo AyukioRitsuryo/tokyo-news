@@ -32,6 +32,8 @@ Authors
 - https://unsplash.com/@dshap - avatar: crow
 - https://pixabay.com/pl/users/djedj-59194/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5404746 - article 1: akihabara
 - https://unsplash.com/@juliebaa - article 1: Dotonbori
+- https://madhouse.co.jp/english/ - article 3: Chi: Chikyuu no Undou ni Tsuite + Trillion Game
+
 
 
 
