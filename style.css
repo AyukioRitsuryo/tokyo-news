@@ -391,3 +391,11 @@ button:hover {
     border-radius: 10px;
     font-size: 12px;
  }
+
+ .orb {
+    max-width: 400px;
+ }
+
+ .goku {
+    max-width: 300px;
+ }
