@@ -470,4 +470,17 @@ button, .button-form {
     font-size: 300px;
  }
 
+ /* V. CONTACT.HTML */
 
+ .contact {
+    font-family: "Potta One";
+    background-color: rgb(95, 17, 168);
+    border-radius: 10px;
+    padding: 20px;
+    color: white;
+    text-shadow: 2px 2px black;
+    text-align: center;
+ }
+ .yellow {
+    color: rgb(247, 206, 72);
+ }
