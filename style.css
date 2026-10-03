@@ -270,7 +270,7 @@ body {
     align-content: center;
 }
 
-button {
+button, .button-form {
     font-family: "Potta One";
     background-color:#A811A5;
     color: rgb(236, 95, 0);
@@ -413,3 +413,39 @@ button:hover {
  }
 
  /* V. SIGN-UP.HTML */
+
+ .sign-up-form {
+    background-color:rgb(95, 17, 168);
+    padding: 30px;
+    font-family: "Potta One";
+    color: rgb(236, 95, 0);
+    text-shadow: 2px 2px black;
+ }
+
+ .form {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    font-size: 18px;
+
+ }
+
+ form {
+    align-self: center;
+ }
+
+ .field {
+    font-family: "Zen Kurenaido";
+ }
+
+ .form-text {
+    font-family: "Zen Kurenaido";
+ }
+
+ .row {
+    display: flex;
+    flex-direction: row;
+ }
+
+
