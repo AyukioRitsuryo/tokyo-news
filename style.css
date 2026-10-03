@@ -399,3 +399,17 @@ button:hover {
  .goku {
     max-width: 300px;
  }
+
+ /* IV. YOUR-LIBRARY.HTML */
+
+ .library {
+    font-family: "Potta One";
+    color: rgb(236, 95, 0);
+    text-shadow: 2px 2px black;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 30px;
+
+ }
+
+ /* V. SIGN-UP.HTML */
