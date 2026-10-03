@@ -13,6 +13,7 @@ body {
 
 .logo {
     display: flex;
+    flex-wrap: wrap;
     font-size: 36px;
     font-family: "Potta One";
     text-shadow: 2px 4px black;
@@ -247,11 +248,12 @@ body {
 .sign-up-container {
     background-color: rgb(95, 17, 168);
     width: 60%;
-    min-width: 400px;
+    min-width: 280px;
     display: flex;
     margin: 30px;
     border-radius: 10px;
     box-shadow: 2px 2px #A811A5;
+    flex-wrap: wrap;
 }
 
 .sign-up-text {
@@ -390,6 +392,8 @@ button, .button-form {
     color: rgb(236, 95, 0);
     text-shadow: 1px 1px black;
     border-radius: 5px;
+    margin-bottom: 10px;
+    
  }
 
  .disclaimer {
@@ -406,6 +410,10 @@ button, .button-form {
  .goku {
     max-width: 300px;
  }
+.comment {
+    min-width: 300px;
+}
+
 
  /* IV. YOUR-LIBRARY.HTML */
 
@@ -461,7 +469,5 @@ button, .button-form {
  .kanji {
     font-size: 300px;
  }
- .kanji:hover {
-    
- }
+
 
