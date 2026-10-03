@@ -33,10 +33,11 @@ Authors
 - https://pixabay.com/pl/users/djedj-59194/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=5404746 - article 1: akihabara
 - https://unsplash.com/@juliebaa - article 1: Dotonbori
 - https://madhouse.co.jp/english/ - article 3: Chi: Chikyuu no Undou ni Tsuite + Trillion Game
-
-
-
-
+- https://www.kodansha.co.jp/ - article 4: koe no katachi, vagabound
+- https://www.shogakukan.co.jp/en/company - article 4: monster, shogukan
+- https://www.shinchosha.co.jp/ - article 4: gokushufudō
+- https://www.pexels.com/pl-pl/@jakubzerdzicki/ - article 5: on air, singing girl
+- https://unsplash.com/@les_photograph - article 5: singing girl
 
 ---
 
