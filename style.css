@@ -270,16 +270,23 @@ body {
     align-content: center;
 }
 
+.sign-up-button a {
+    text-decoration: none;
+    color:rgb(236, 95, 0);
+    text-shadow: 1px 1px black;
+}
+.sign-up-button a:hover {
+    text-decoration: none;
+    color:rgb(255, 163, 102);
+    text-shadow: 1px 1px black;
+}
+
 button, .button-form {
     font-family: "Potta One";
     background-color:#A811A5;
     color: rgb(236, 95, 0);
     text-shadow: 1px 1px black;
     border-radius: 5px;
-}
-
-button:hover {
-    color: rgb(255, 163, 102);
 }
 
 .yellow-sign-up-t {
@@ -420,6 +427,7 @@ button:hover {
     font-family: "Potta One";
     color: rgb(236, 95, 0);
     text-shadow: 2px 2px black;
+    min-width: 297px;
  }
 
  .form {
@@ -446,6 +454,14 @@ button:hover {
  .row {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
  }
 
+ .kanji {
+    font-size: 300px;
+ }
+ .kanji:hover {
+    
+ }
 
